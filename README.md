@@ -6,10 +6,10 @@ https://quizzical-scrimba.vercel.app/
 **_This is the final Solo Project of Bob Ziroll's React Course on Scrimba developed from scratch by me._**
 
 ## ⚒️ Built with:
-HTML 5
-CSS 3
-JavaScript
-React - JS library
+- HTML 5
+- CSS 3
+- JavaScript
+- React - JS library
 
 ## 📷 Screenshots:
 
