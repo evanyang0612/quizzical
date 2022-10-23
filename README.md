@@ -12,7 +12,8 @@ https://quizzical-scrimba.vercel.app/
 - React - JS library
 
 ## 📷 Screenshots:
+![image](https://user-images.githubusercontent.com/110648530/197392658-ef01fe83-2943-4c8c-9c22-c70077268ec6.png)
+![image](https://user-images.githubusercontent.com/110648530/197392679-82ce49cb-c1af-4c94-b1e4-d204e463fb4e.png)
+![image](https://user-images.githubusercontent.com/110648530/197392649-e4d46122-bad0-4fb6-979c-493a93b1737a.png)
 
-![image](https://user-images.githubusercontent.com/110648530/197392363-e1d75212-a246-452e-9607-087decbbb5be.png)
-![image](https://user-images.githubusercontent.com/110648530/197392408-8c104cb4-cb8b-45c4-86a7-6011009f96b7.png)
-![image](https://user-images.githubusercontent.com/110648530/197392419-ae08330b-bd36-4656-9491-cb06fffceb18.png)
+
