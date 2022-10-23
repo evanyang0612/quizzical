@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import { nanoid } from "nanoid";
 import "./QuestionList.css";
 import Question from "../Question/Question";
-import fetchQuestions from "../../apis/fetchQuestions";
 import Spinner from "../Spinner";
 
 export default function QuestionList({
@@ -61,7 +60,7 @@ export default function QuestionList({
           })
         );
       });
-  }, []);
+  }, [gameOptions, handleNoQuestionsError, onGameStart]);
 
   useEffect(() => {
     if (questionsArray.length !== 0 && allQuestionsAnswered) {
@@ -74,7 +73,7 @@ export default function QuestionList({
       setCorrectAnswersCount(correctAnswers);
       setAllAnswerFilled(true);
     }
-  }, [questionsArray]);
+  }, [questionsArray, allQuestionsAnswered]);
 
   const handleSelectAnswer = (questionId, answer) => {
     if (!gameOver) {
