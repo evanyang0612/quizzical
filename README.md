@@ -1,5 +1,5 @@
 # 🧠💡 Quizzical
-https://quizzical-scrimba.vercel.app/
+https://evan-quizzical.netlify.app/
 
 **_Quiz WebApp that access trivia questions from the Open Trivia Database API and score players based on their answers. Multiple game options like difficulty and category are available for the player to change._**
 
